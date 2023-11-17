@@ -14,14 +14,14 @@ a:visited {
 
 h1 {
     background: black;
-    color: white;
+    color: rgb(255, 255, 255);
     margin-bottom: 0px;
     padding: 6px 18px;
     font-size: 1em;
 }
 
 h3 {
-    font-size: 1.6em;
+    font-size: 1.2em;
     margin-top: 0;
     margin-bottom: 10px;
     font-family: Spectral, "Arial Black", sans-serif;
@@ -41,7 +41,7 @@ h5 {
 }
 
 #name {
-    font-size: 1.8em;
+    font-size: 1.3em;
     font-weight: 500;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -122,17 +122,12 @@ hr {
     text-align: center;
 }
 
-#mainHR {
-    width: 25%;
-    border: 2px solid black;
-    margin-top: 20px;
-}
 
 #additionally {
     text-align: justify;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 15px;
 }
 
 .funky {
@@ -143,3 +138,4 @@ hr {
     color: blue;
     font-size: 1.2em;
 }
+
